@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/dany33code/project-angular/badge.svg?branch=master)](https://coveralls.io/github/dany33code/project-angular?branch=master)
+[![Build Status](https://travis-ci.org/dany33code/project-angular.svg?branch=master)](https://travis-ci.org/dany33code/project-angular)
+
+
 # ProjectAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
