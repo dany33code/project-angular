@@ -10,12 +10,8 @@
     "e2e": "ng e2e",
     "test:cover": "rm -rf ./coverage && ng test --code-coverage --no-watch",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
-    "husky": {
-      "hooks": {
-        "pre-commit": "npm run commit-msg && npm run lint",
-        "commit-msg": "commitlint -e"
-      }
-    }
+    "pre-commit": "npm run commit-msg && npm run lint",
+    "commit-msg": "commitlint -e"
   },
   "private": true,
   "dependencies": {
