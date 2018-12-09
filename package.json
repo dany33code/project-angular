@@ -17,6 +17,12 @@
       }
     }
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint",
+      "commit-msg": "commitlint -e"
+    }
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~7.1.0",
