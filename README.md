@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/dany33code/project-angular/badge.svg?branch=master)](https://coveralls.io/github/dany33code/project-angular?branch=master)
+[![Build Status](https://travis-ci.org/dany33code/project-angular.svg?branch=master)](https://travis-ci.org/dany33code/project-angular)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/568b22407ff64e5b8dd7a47df015b584)](https://www.codacy.com/app/dany33code/project-angular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dany33code/project-angular&amp;utm_campaign=Badge_Grade)
+
 # ProjectAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
